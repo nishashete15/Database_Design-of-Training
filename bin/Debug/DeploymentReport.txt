@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Admin] (Table)
+       [dbo].[Courses] (Table)
+       [dbo].[Employees] (Table)
+       [dbo].[Professor] (Table)
+       [dbo].[Reg_Training] (Table)
+
+** Supporting actions

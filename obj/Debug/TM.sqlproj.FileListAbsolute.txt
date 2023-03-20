@@ -1,0 +1,6 @@
+H:\project\TM\TM\bin\Debug\TM.dacpac
+H:\project\TM\TM\bin\Debug\TM.dll
+H:\project\TM\TM\bin\Debug\TM.pdb
+H:\project\TM\TM\obj\Debug\TM.sqlproj.AssemblyReference.cache
+H:\project\TM\TM\obj\Debug\TM.dll
+H:\project\TM\TM\obj\Debug\TM.pdb

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[FAQ]
+(
+	[FAQ_Id] INT NOT NULL PRIMARY KEY, 
+    [FAQ_qns] NVARCHAR(MAX) NULL, 
+    [FAQ_ans] NVARCHAR(MAX) NULL
+)

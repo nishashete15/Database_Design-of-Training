@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Employees].[Password] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Courses] (Table)
+       [dbo].[Employees] (Table)
+     Create
+       [dbo].[Course_topic] (Table)
+
+** Supporting actions
+
+The column [dbo].[Employees].[Password] is being dropped, data loss could occur.
+

@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Reg_Training].[Employees] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Reg_Training] (Table)
+     Create
+       [dbo].[Test] (Table)
+
+** Supporting actions
+
+The column [dbo].[Reg_Training].[Employees] is being dropped, data loss could occur.
+
